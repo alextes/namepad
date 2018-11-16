@@ -1,0 +1,2 @@
+# namepad
+Writing down the name of a person you met plus a few contextual keywords let's you pull their name and memory back up at a glance whenever you're about ot see said person again. It's thoughtful, appreciated, and fun. Over time however, the list becomes long and finding names hard. This app makes the list smart and searchable. Generally we hope you'll find the right person is near the top already, in case it's not the AI would like to apologize profusely 🙇‍♀️, and the app offers several methods of filtering. people.
